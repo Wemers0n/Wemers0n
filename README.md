@@ -1,5 +1,5 @@
 ## Hello, I'm Wemerson Sousa.
-<h4>Olá, Eu me chamo Wemerson Sousa, programador e atualmente estudando segurança da informaçao</h4>
+<h4>Olá, Eu me chamo Wemerson Sousa, programador e atualmente estudando segurança da informação</h4>
 
 <div aling="left">
  <h2>:mortar_board: Formations</h2>
