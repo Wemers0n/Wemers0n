@@ -1,7 +1,7 @@
 ## Hello, I'm Wemerson Sousa, Programmer and Information Security student
  
 <div align="left">
-<h2>⚙️ &nbsp;GitHub Analytics</h2>
+<h2>:gear: GitHub Analytics</h2>
   <a href="https://github.com/Wemers0n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemers0n&layout=compact&langs_count=8&theme=dark"/>
