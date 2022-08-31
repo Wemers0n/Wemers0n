@@ -32,12 +32,13 @@
 <div> 
 <h2>:game_die: Contact</h2> 
   <a href="https://instagram.com/_.wemers0n._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lince8k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
   
+ <h2>:clubs: Activity Status</h2>
  <div>
   
   ![Snake animation](https://github.com/Wemers0n/Wemers0n/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+ </div>
