@@ -25,7 +25,6 @@
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wemers0n&theme=react-dark) 
  
 
-
 <div style="display: inline_block"><br>
 <h2>:man_technologist: Technologies</h2> 
   <img align="center" alt="Ws-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -46,9 +45,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/name" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="name" height="30" width="40" /></a>
 <a href="https://instagram.com/_.wemers0n._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cifertech" height="30" width="40" /></a>
-<a href="https://discord.gg/CiferTech#1012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="CiferTech#1012" height="30" width="40" /></a>
+<a href="https://discord.gg/Wemerson#4938" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Wemerson#4938" height="30" width="40" /></a>
 </p>
-
 
  <div>
   
