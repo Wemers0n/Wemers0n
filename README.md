@@ -5,13 +5,25 @@
  <h2>:mortar_board: Formations</h2>
    <h4>- Técnico em Desenvolvimento de Sistemas - IFPI</h4>
 </div>
+  
+ <h2>:bar_chart: GitHub Analytics</h2>
+<center>
+    <table>
+        <tr>
+            <td>
+                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&theme=react&hide_border=true" />
+            </td>
+            <td>
+                <img width="400px" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Wemers0n&theme=react&hide_border=true" />
+            </td>
+        </tr>
+    </table>
+</center>  
+
+ <h2>:clubs: Activity Status</h2>
  
-<div align="left">
-<h2>:bar_chart: GitHub Analytics</h2>
-  <a href="https://github.com/Wemers0n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemers0n&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wemers0n&theme=react-dark) 
+ 
 
 
 <div style="display: inline_block"><br>
@@ -29,14 +41,15 @@
 </div>
 
   #
-<div> 
-<h2>:game_die: Contact</h2> 
-  <a href="https://instagram.com/_.wemers0n._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lince8k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  </div>
-  
- <h2>:clubs: Activity Status</h2>
+
+<h2 align="left">:game_die: Contact</h2>
+<p align="left">
+<a href="https://linkedin.com/in/name" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="name" height="30" width="40" /></a>
+<a href="https://instagram.com/_.wemers0n._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cifertech" height="30" width="40" /></a>
+<a href="https://discord.gg/CiferTech#1012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="CiferTech#1012" height="30" width="40" /></a>
+</p>
+
+
  <div>
   
   ![Snake animation](https://github.com/Wemers0n/Wemers0n/blob/output/github-contribution-grid-snake.svg)
