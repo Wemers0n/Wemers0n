@@ -11,10 +11,14 @@
     <table>
         <tr>
             <td>
-                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&theme=react&hide_border=true" />
+               <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&theme=react&hide_border=true" />
             </td>
             <td>
-                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemers0n&layout=compact&langs_count=7&theme=react"/>
+              <img width="400px" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Wemers0n&theme=react&hide_border=true" />             
+         </td>
+         <td>
+              <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemers0n&layout=compact&langs_count=7&theme=react" /> 
+         </td>
         </tr>
     </table>
 </center>  
