@@ -22,6 +22,7 @@
 
  <h2>:clubs: Activity Status</h2>
  
+ 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wemers0n&theme=react-dark) 
  
 
