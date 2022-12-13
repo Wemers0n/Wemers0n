@@ -20,11 +20,6 @@
     </table>
 </center>  
 
- <h2>:clubs: Activity Status</h2>
- 
- 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wemers0n&theme=react-dark) 
- 
 
 <div style="display: inline_block"><br>
 <h2>:man_technologist: Technologies</h2> 
