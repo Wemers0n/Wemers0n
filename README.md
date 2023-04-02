@@ -1,23 +1,6 @@
 ## Hello, I'm Wemerson Sousa.
 
  <h2>:bar_chart: GitHub Analytics</h2>
- 
- 
-<!-- <center>
-    <table>
-        <tr>
-            <td>
-               <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>             
-            </td>     
-         <td>
-              <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemers0n&layout=compact&langs_count=7&theme=react"/> 
-         </td>
-         <td>
-          </
-        </tr>
-    </table>
-</center>   -->
-
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&count_private=true&theme=react" /> 
@@ -41,11 +24,11 @@
 </div>
 
 
-<h2 align="left">:game_die: Contact</h2>
+<!-- <h2 align="left">:game_die: Contact</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/w-sousa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="name" height="30" width="40" /></a>
 <a href="https://discord.gg/Wemerson#4938" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Wemerson#4938" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
  <div>
