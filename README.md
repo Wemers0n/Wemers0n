@@ -20,7 +20,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&count_private=true&theme=react" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&count_private=true&theme=react" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemers0n&layout=compact&hide_border=true&theme=react" />
 </div> 
  
