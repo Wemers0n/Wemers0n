@@ -39,9 +39,9 @@
  
  
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wemers0n&repo=Wemers0n)](https://github.com/Wemers0n/Wemers0n) -->
-<a href="https://github.com/Wemers0n/Wemers0n">
+<!-- <a href="https://github.com/Wemers0n/Wemers0n">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wemers0n&repo=Wemers0n" />
 </a>
 <a href="https://github.com/Wemers0n/Java-Codes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wemers0n&repo=Java-Codes" />
-</a>
+</a> -->
