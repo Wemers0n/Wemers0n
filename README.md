@@ -11,8 +11,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wemers0n&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-<div style="display: inline_block"><br>
-<h2>:man_technologist: Technologies</h2> 
+<div align="center" style="display: inline_block"><br>
+ 
+<!--<h2>:man_technologist: Technologies</h2>-->
+ 
   <img align="center" alt="Ws-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Ws-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> 
   <img align="center" alt="Ws-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
