@@ -27,11 +27,13 @@
 
 <!--
  <div>
+
   
   ![Snake animation](https://github.com/Wemers0n/Wemers0n/blob/output/github-contribution-grid-snake.svg)
 
+
  </div>
- -->
+-->
  
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wemers0n&repo=Wemers0n)](https://github.com/Wemers0n/Wemers0n) -->
 <!-- <a href="https://github.com/Wemers0n/Wemers0n">
