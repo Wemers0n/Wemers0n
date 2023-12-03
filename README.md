@@ -1,4 +1,14 @@
 ## Hello, I'm Wemerson Sousa.
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Wemers0n/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 
 <!-- <h2>:bar_chart: GitHub Analytics</h2> -->
 
@@ -30,8 +40,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 </div>
-<br>
-<br>
+
 
 <!--
 
@@ -55,13 +64,4 @@
  
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wemers0n&repo=Wemers0n)](https://github.com/Wemers0n/Wemers0n) -->
 
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Wemers0n/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
