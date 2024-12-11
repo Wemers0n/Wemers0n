@@ -11,5 +11,5 @@
 <!-- <img align="center" alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/> -->
 <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" /> 
-<img align="center" alt="aws" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonWebServices&logoColor=white"/> 
+<img align="center" alt="aws" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white"/> 
 </div>
