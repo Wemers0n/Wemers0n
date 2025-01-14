@@ -5,7 +5,7 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,kafka,aws,postgresql,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,kafka,aws,postgresql,mongodb,docker,kubernetes" />
   </a>
 </p>
 
