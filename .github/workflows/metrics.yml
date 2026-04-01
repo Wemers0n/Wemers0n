@@ -16,10 +16,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Wemers0n
           template: classic
-          base: header, community, repositories
+          base: header
           
-          plugin_languages: no
-          plugin_habits: no
-          
-          config_display: regular
-          config_animations: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage 
+          plugin_languages_sections: most-used 
