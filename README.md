@@ -1,7 +1,10 @@
 
 <code>System.out.println("👋 Hello, I'm Wemerson Sousa!")</code>
 <hr>
-<div align="center"> <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wemers0n&show_icons=true&count_private=true&theme=react" /> <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemers0n&layout=compact&hide_border=true&theme=react" /> </div>
+<div align="center">
+  <!-- Substituindo os cartões do Vercel pela sua imagem gerada via GitHub Actions -->
+  <img width="90%" src="https://githubusercontent.com" alt="GitHub Metrics">
+</div>
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
