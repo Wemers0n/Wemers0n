@@ -3,7 +3,7 @@
 <hr>
 <div align="center">
   <!-- Substituindo os cartões do Vercel pela sua imagem gerada via GitHub Actions -->
-  <img width="90%" src="https://githubusercontent.com" alt="GitHub Metrics">
+  <img width="90%" src="https://github.com/Wemers0n/Wemers0n/blob/main/github-metrics.svg" alt="GitHub Metrics">
 </div>
 <hr>
 <p align="center">
