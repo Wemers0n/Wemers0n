@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github.com/Wemers0n/Wemers0n/blob/main/github-metrics.svg" alt="GitHub Metrics">
+  <img width="65%" src="https://github.com/Wemers0n/Wemers0n/blob/main/github-metrics.svg" alt="GitHub Metrics">
 </div>
 
 <br>
