@@ -1,13 +1,18 @@
-
-<code>System.out.println("👋 Hello, I'm Wemerson Sousa!")</code>
-<hr>
 <div align="center">
-  <!-- Substituindo os cartões do Vercel pela sua imagem gerada via GitHub Actions -->
-  <img width="90%" src="https://github.com/Wemers0n/Wemers0n/blob/main/github-metrics.svg" alt="GitHub Metrics">
+  <code>System.out.println("👋 Hello, I'm Wemerson Sousa!")</code>
 </div>
-<hr>
+
+<br>
+
+<div align="center">
+  <img width="50%" src="https://github.com/Wemers0n/Wemers0n/blob/main/github-metrics.svg" alt="GitHub Metrics">
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
+    <!-- Removi o excesso de bordas (hr) para o visual respirar melhor -->
     <img src="https://skillicons.dev/icons?i=python,java,spring,kafka,aws,postgresql,mongodb,redis,docker,kubernetes,terraform" />
   </a>
 </p>
